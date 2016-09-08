@@ -7,9 +7,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP229_F2016_Lesson1.Tests {
+namespace COMP229_F2016_Lesson1 {
     
     
-    public partial class _Default {
+    public partial class Tests {
     }
 }
